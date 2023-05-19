@@ -1,0 +1,11 @@
+O programa Crianco em C, testado na IDE DEVC++.
+
+Criado uma variável senha o tipo char usada para armazenar a senha,
+a qual pode ser qualquer arranjo de caracteres.
+
+A variável s usada para armazenar a senha entrada pelo usuário.
+
+Solicitado ao usuário que digitasse a senha.
+
+Criado um laço  if Else para verificar a veracidade da senha digitada.
+
